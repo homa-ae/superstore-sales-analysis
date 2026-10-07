@@ -18,5 +18,5 @@ This repository contains an exploratory data analysis of the Superstore dataset 
 ## Main Insights
 * **Top Category:** Technology generated the highest overall revenue.
 * **Geographic Spread:** The West region accounts for the highest total sales volume, with Chairs exceeding $100K.
-* **Customer Value:** A small percentage of High-Spender customers accounts for a significant portion of total sales.
-* **Monthly Trends:** Sales volume shows clear seasonal spikes toward the end of the year (Q4).
+* **Customer Value:** Customers are categorized into High, Medium, and Low spending tiers based on their total purchases, providing a clear breakdown of individual customer value for targeted marketing.
+* **Monthly Trends & Seasonality:** Revenue shows strong Q4 seasonality, with sales consistently spiking between September and December (reaching a peak of over $117K in November 2018), compared to low volume in Q1.
